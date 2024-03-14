@@ -1,4 +1,4 @@
-sen = dir(fullfile('/Users/matthewbain/Documents/Science/Experiments/efflisi/experiment/sentences/audio 1', '*.wav'));
+sen = dir(fullfile('/sentences/audio 1', '*.wav'));
 
 total_len = 0;
 for s = 1:length(sen)
