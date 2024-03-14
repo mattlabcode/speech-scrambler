@@ -15,9 +15,9 @@ do_save    = 1;
 
 % input
 if story == 1
-    audiofile = '/Users/matthewbain/Documents/Science/Experiments/efflisisc/experiment/stories/story_arctic.wav';
+    audiofile = '/stories/story_arctic.wav';
 elseif story == 2
-    audiofile = '/Users/matthewbain/Documents/Science/Experiments/efflisisc/experiment/stories/story_swim.wav';
+    audiofile = '/stories/story_swim.wav';
 end
 [y, sf]   = audioread(audiofile);
 
