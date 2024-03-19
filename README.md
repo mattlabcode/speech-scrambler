@@ -1,1 +1,1 @@
-A small set of scripts for creating scrambled versions of speech stimuli at the sentence or word level with minimal dependency requirements. Requires only MATLAB and an audio file containing (relatively background noise-free) speech.
+A small set of scripts for creating scrambled versions of speech stimuli at the sentence or word level with minimal dependencies. Requires only MATLAB and an audio file containing (relatively background noise-free) speech.
